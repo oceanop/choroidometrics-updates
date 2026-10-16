@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>ChoroidoMetrics</title>
+    <link>https://github.com/oceanop/choroidometrics-updates</link>
+    <description>Signed ChoroidoMetrics updates</description>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: QtncWhPNd68Sfrq6QholWz72uw/7uGVvEcvdLtXaNwqrU1YxToF261/it9dVHOLlNU36jPvar/QuJgoXj/XECg==
+length: 575
+-->
